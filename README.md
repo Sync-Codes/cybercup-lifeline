@@ -6,7 +6,7 @@ by Team Nameless: Bhavya Dang, Aaryan Dawalkar, Priyansh Bhadauria
 
 ## UI/UX
 
-![Figma Design and Prototype](assets\ui\design.png)
+![Figma Design](design.png)
 
 ## Problem Statement
 
