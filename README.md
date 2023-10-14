@@ -6,6 +6,8 @@ by Team Nameless: Bhavya Dang, Aaryan Dawalkar, Priyansh Bhadauria
 
 ## UI/UX
 
+![Figma Design and Prototype](assets\ui\design.png)
+
 ## Problem Statement
 
 Develop a system for In-patient care in hospital sector- the system should highlight the need to address various challenges in managing and improving the care provided to hospitalized patients. The solution involves the development of technology driven systems and processes to enhance patient management, data handling, resource allocation, communication and overall quality of care within hospital setting.
